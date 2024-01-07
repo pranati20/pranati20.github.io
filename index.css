@@ -124,20 +124,19 @@ h3 {
 }
 
 .language p {
-  font-size: 1.5em; /* Adjust the size as needed */
-  font-weight: bold; /* You can adjust the weight as needed */
+  font-size: 1.5em;
+  font-weight: bold;
   margin-bottom: 10px;
   text-align: left;
 }
 .Skills p {
-  font-size: 1.5em; /* Adjust the size as needed */
-  font-weight: bold; /* You can adjust the weight as needed */
+  font-size: 1.5em;
+  font-weight: bold;
   margin-bottom: 10px;
   text-align: left;
 }
-/* Add this style to your CSS file */
 a {
-  color: #ffffff; /* Change this to your desired color value */
-  text-decoration: underline; /* Remove underline, if needed */
+  color: #ffffff;
+  text-decoration: underline;
   margin-left: 22px;
 }
